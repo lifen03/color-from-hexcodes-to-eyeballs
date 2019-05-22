@@ -516,7 +516,7 @@ sRGB的编码和解码规则使用类似的思想，但稍微复杂一些。
 
 这篇文章有意忽略色彩复制和识别的许多方面。例如，我们没有讨论你的大脑如何处理[对手过程理论](https://psych.ucalgary.ca/PACE/VA-Lab/colourperceptionweb/theories.htm)中的视锥细胞激发信息，或者[色彩不变性](https://en.wikipedia.org/wiki/Color_constancy)的影响。我们没有讨论[加色]((https://en.wikipedia.org/wiki/Additive_color))和[减色](https://en.wikipedia.org/wiki/Subtractive_color)。我们没说[色盲](http://www.colour-blindness.com/general/how-it-works-science/)。我们没有讨论[光通量、发光强度、亮度、照度和发光率]((https://en.wikipedia.org/wiki/Photometry_(optics)#Photometric_quantities))之间的区别。我们没有谈论[ICC设备的色彩配置文件](https://en.wikipedia.org/wiki/ICC_profile)，也没有讨论像[f.lux](https://justgetflux.com/)这样的程序对色彩感知的作用。
 
-我把忽略它们因为这个帖子已经太久了!Ileftthemoutbecausethispostisalreadywaytoolong!正如[我的一个朋友](https://twitter.com/amtinits)说的：即使你是一个人，知道大多数事情都比他们看起来更深，色彩比你想象更有深度。。
+我忽略它们因为这个帖子已经太久了!正如[我的一个朋友](https://twitter.com/amtinits)说的：即使你是一个人，知道大多数事情都比他们看起来更复杂，色彩比你想象的更有深度。
 
 ## 参考
 
@@ -536,13 +536,13 @@ sRGB的编码和解码规则使用类似的思想，但稍微复杂一些。
 
 我还需要利用许多数据表来生成这篇文章中的图表：
 
-*   [伦敦大学色彩与视觉研究实验室数据库](http://www.cvrl.org/) (XYZ color matching functions, cone fundamentals)
+*   [伦敦大学色彩与视觉研究实验室数据库](http://www.cvrl.org/) (XYZ配色函数，视锥的基本原理)
 
-*   [fluxometer.com](https://fluxometer.com/rainbow/#!id=iPad%20Pro/6500K-iPad%20Pro) (RGB LCD screen subpixel spectra)
+*   [fluxometer.com](https://fluxometer.com/rainbow/#!id=iPad%20Pro/6500K-iPad%20Pro) (RGB液晶屏亚像素光谱)
 
-*   [CIE15：技术报告：比色法，第3版](https://archive.org/details/gov.law.cie.15.2004) (RGB color matching funtions)
+*   [CIE15：技术报告：比色法，第3版](https://archive.org/details/gov.law.cie.15.2004) (RGB配色功能)
 
 特别感谢[Chris Cooper](http://www.coopernetics.com/blog/)和[Ryan Kaplan](http://rykap.com/)就该职位草案提供反馈。
 
-*如果你喜欢看这篇文章，你应该在[twitter上关注我(Jamie Wong)](https://twitter.com/jlfwong)，看看[我写的其他博客文章](http://jamie-wong.com/)，或者甚至[和我一起在Figma工作](https://www.figma.com/careers)！*
+*如果你喜欢看这篇文章，你可以在[twitter上关注我(Jamie Wong)](https://twitter.com/jlfwong)，看看[我写的其他博客文章](http://jamie-wong.com/)，甚至可以[和我一起在Figma工作](https://www.figma.com/careers)！*
 

@@ -545,5 +545,5 @@ sRGB的编码和解码规则使用类似的思想，但稍微复杂一些。
 
 特别感谢[Chris Cooper](http://www.coopernetics.com/blog/)和[Ryan Kaplan](http://rykap.com/)就该职位草案提供反馈。
 
-*如果你喜欢看这篇文章，你应该在[twitter上关注我(Jamie Wong)](https://twitter.com/jlfwong)，看看[我写的其他博客文章](http://jamie-wong.com/)，或者甚至[和我一起在Figma工作](https://www.figma.com/careers)！*
+*如果你喜欢看这篇文章，你可以在[twitter上关注我(Jamie Wong)](https://twitter.com/jlfwong)，看看[我写的其他博客文章](http://jamie-wong.com/)，甚至可以[和我一起在Figma工作](https://www.figma.com/careers)！*
 
