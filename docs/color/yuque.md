@@ -517,7 +517,7 @@ sRGB的编码和解码规则使用类似的思想，但稍微复杂一些。
 
 这篇文章有意忽略色彩复制和识别的许多方面。例如，我们没有讨论你的大脑如何处理[对手过程理论](https://psych.ucalgary.ca/PACE/VA-Lab/colourperceptionweb/theories.htm)中的视锥细胞激发信息，或者[色彩不变性](https://en.wikipedia.org/wiki/Color_constancy)的影响。我们没有讨论[加色]((https://en.wikipedia.org/wiki/Additive_color))和[减色](https://en.wikipedia.org/wiki/Subtractive_color)。我们没说[色盲](http://www.colour-blindness.com/general/how-it-works-science/)。我们没有讨论[光通量、发光强度、亮度、照度和发光率]((https://en.wikipedia.org/wiki/Photometry_(optics)#Photometric_quantities))之间的区别。我们没有谈论[ICC设备的色彩配置文件](https://en.wikipedia.org/wiki/ICC_profile)，也没有讨论像[f.lux](https://justgetflux.com/)这样的程序对色彩感知的作用。
 
-我把忽略它们因为这个帖子已经太久了!Ileftthemoutbecausethispostisalreadywaytoolong!正如[我的一个朋友](https://twitter.com/amtinits)说的：即使你是一个人，知道大多数事情都比他们看起来更深，色彩比你想象更有深度。。
+我忽略它们因为这个帖子已经太久了!正如[我的一个朋友](https://twitter.com/amtinits)说的：即使你是一个人，知道大多数事情都比他们看起来更深，色彩比你想象更有深度。。
 
 ## 参考
 
