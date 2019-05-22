@@ -1,12 +1,12 @@
 ## 摘要
 
-![](http://jamie-wong.com/images/color/Hero.png)
+![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Hero.png)
 
 这篇文章也有俄语版本：[Цвет：отшестнадцатеричныхкодовдоглаза](https://habr.com/post/353582/)，和日语版本：色：[ヘキサコードから眼球まで](https://postd.cc/color/)。
 
 为什么我们能感觉到`background-color: #9B51E0`是特定的紫色？
 
-![](http://jamie-wong.com/images/color/Purple.png)
+![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Purple.png)
 
 很早我就认为这是我已经知道答案的问题之一，但是在我审视我对这个问题的认知时，我意识到这里面存在相当大的误解。
 

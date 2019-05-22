@@ -8,7 +8,7 @@
 
 首先，并不是所有的三重态值(也称为**三刺激值**)在物理上都是可能的。考虑LMS坐标(0，1，0)。为了在物理上实现这个坐标，我们需要找到刺激M锥的方法，而不需要刺激L或S锥。由于M锥的灵敏度曲线在所有波长上都明显重叠于L或S中的至少一个，这是不可能的！
 
-![](http://jamie-wong.com/images/color/Cones.png)
+![](https://yylifen.github.io/color-from-hexcodes-to-eyeballs/color/image/Cones.png)
 
 *任何刺激M锥的波长也会刺激L锥或S锥(或两者兼而有之)。*
 
